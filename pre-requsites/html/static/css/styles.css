@@ -9,3 +9,13 @@
     height: 120px;
     width: 120px;
 }
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+    background-color: brown;
+    color: white;
+}
